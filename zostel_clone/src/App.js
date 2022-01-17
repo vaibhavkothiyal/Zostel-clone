@@ -1,10 +1,10 @@
-import { Navbar } from "./components/Navbar/Navbar";
 import { DirectRoutes } from "./components/routes/Routes";
+import { Home } from './components/Home/Home'
 
 function App() {
   return (
     <div>
-      <Navbar />
+      <Home />
       <DirectRoutes />
     </div>
   );

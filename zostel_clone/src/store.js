@@ -6,4 +6,3 @@
 // });
 
 // export const store=createStore(rootReducer,applyMiddleware(thunk));
-//vaibhav
